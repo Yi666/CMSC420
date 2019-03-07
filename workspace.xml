@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5955f1a-6937-47c3-8ee0-a75f69322250" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/Archiver.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/allclasses-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/allclasses-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/allclasses-noframe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/allclasses.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/allpackages-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/constant-values.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/demos/UnsafeDowncastings.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/demos/bags/Bag.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/demos/bags/DynamicallyShuffledBag.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/demos/bags/RandomAccessBag.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/demos/bags/StaticallyPerturbedBag.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/demos/bags/clients/Ball.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/demos/bags/clients/Color.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/demos/bags/clients/IntegerTimingClient.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/demos/bags/clients/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/demos/bags/clients/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/demos/bags/clients/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/demos/bags/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/demos/bags/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/demos/bags/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/demos/bags/testcases/BagTests.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/demos/bags/testcases/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/demos/bags/testcases/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/demos/bags/testcases/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/demos/matrices/java/Dimension.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/demos/matrices/java/MajorOrderTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/demos/matrices/java/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/demos/matrices/java/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/demos/matrices/java/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/demos/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/demos/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/demos/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/demos/traversals/BSTClient.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/demos/traversals/BinarySearchTree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/demos/traversals/BinarySearchTreeTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/demos/traversals/JLinkedList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/demos/traversals/JLinkedListClient.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/demos/traversals/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/demos/traversals/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/demos/traversals/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/deprecated-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/element-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-13.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-14.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-15.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-16.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-17.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-18.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index-files/index-9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/jquery/external/jquery/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/jquery/images/ui-bg_flat_0_aaaaaa_40x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/jquery/images/ui-bg_flat_75_ffffff_40x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/jquery/images/ui-bg_glass_65_ffffff_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/jquery/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/jquery/images/ui-icons_222222_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/jquery/images/ui-icons_2e83ff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/jquery/images/ui-icons_454545_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/jquery/images/ui-icons_888888_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/jquery/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/jquery/jquery-3.3.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/jquery/jquery-migrate-3.0.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/jquery/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/jquery/jquery-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/jquery/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/jquery/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/jquery/jquery-ui.structure.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/jquery/jquery-ui.structure.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/jquery/jszip-utils/dist/jszip-utils-ie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/jquery/jszip-utils/dist/jszip-utils-ie.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/jquery/jszip-utils/dist/jszip-utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/jquery/jszip-utils/dist/jszip-utils.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/jquery/jszip/dist/jszip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/jquery/jszip/dist/jszip.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/member-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/member-search-index.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/overview-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/overview-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/package-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/package-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/package-search-index.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/projects/avlg/AVLGTree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/projects/avlg/StudentTests.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/projects/avlg/exceptions/EmptyTreeException.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/projects/avlg/exceptions/InvalidBalanceException.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/projects/avlg/exceptions/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/projects/avlg/exceptions/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/projects/avlg/exceptions/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/projects/avlg/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/projects/avlg/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/projects/avlg/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/projects/graph/AdjacencyListGraph.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/projects/graph/AdjacencyMatrixGraph.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/projects/graph/Graph.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/projects/graph/SparseAdjacencyMatrixGraph.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/projects/graph/StudentTests.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/projects/graph/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/projects/graph/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/projects/graph/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/projects/graph/utils/Neighbor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/projects/graph/utils/NeighborList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/projects/graph/utils/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/projects/graph/utils/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/projects/graph/utils/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/projects/graph/utils/package-tree.html~HEAD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/resources/glass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/resources/x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/serialized-form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/type-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/type-search-index.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Archiver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demos/UnsafeDowncastings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demos/alignment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demos/alignment.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demos/bags/Bag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demos/bags/DynamicallyShuffledBag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demos/bags/RandomAccessBag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demos/bags/StaticallyPerturbedBag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demos/bags/clients/Ball.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demos/bags/clients/Color.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demos/bags/clients/IntegerTimingClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demos/bags/testcases/BagTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demos/matrices/java/Dimension.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demos/matrices/java/MajorOrderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demos/matrices/matlab/sums.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demos/traversals/BSTClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demos/traversals/BinarySearchTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demos/traversals/BinarySearchTreeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demos/traversals/JLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demos/traversals/JLinkedListClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projects/avlg/AVLGTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projects/avlg/StudentTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projects/avlg/exceptions/EmptyTreeException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projects/avlg/exceptions/InvalidBalanceException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projects/avlg/project2_writeup.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projects/graph/AdjacencyListGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projects/graph/AdjacencyMatrixGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projects/graph/Graph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projects/graph/SparseAdjacencyMatrixGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projects/graph/StudentTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projects/graph/project1_writeup.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projects/graph/utils/Neighbor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projects/graph/utils/NeighborList.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/avlg/AVLGTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3">
+              <caret line="449" column="17" lean-forward="true" selection-start-line="449" selection-start-column="17" selection-end-line="449" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#node_height#0;class#AVLGTree#0" />
+                <element signature="method#node_balance#0;class#AVLGTree#0" />
+                <element signature="method#revise_height#0;class#AVLGTree#0" />
+                <element signature="method#revise_balance#0;class#AVLGTree#0" />
+                <element signature="method#Tree_count#0;class#AVLGTree#0" />
+                <element signature="method#Tree_is_BST#0;class#AVLGTree#0" />
+                <element signature="method#rotateRight#0;class#AVLGTree#0" />
+                <element signature="method#rotateLeft#0;class#AVLGTree#0" />
+                <element signature="method#rotateLR#0;class#AVLGTree#0" />
+                <element signature="method#rotateRL#0;class#AVLGTree#0" />
+                <element signature="method#AVLGTree#0;class#AVLGTree#0" />
+                <element signature="method#search#0;class#AVLGTree#0" />
+                <element signature="method#getMaxImbalance#0;class#AVLGTree#0" />
+                <element signature="method#getHeight#0;class#AVLGTree#0" />
+                <element signature="e#13718#13719#0" expanded="true" />
+                <element signature="e#13753#13754#0" expanded="true" />
+                <element signature="method#getRoot#0;class#AVLGTree#0" />
+                <element signature="method#isBST#0;class#AVLGTree#0" />
+                <element signature="method#isAVLGBalanced#0;class#AVLGTree#0" />
+                <element signature="method#getCount#0;class#AVLGTree#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/avlg/StudentTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1224">
+              <caret line="78" selection-start-line="78" selection-end-line="78" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/avlg/StudentTests.java" />
+        <option value="$PROJECT_DIR$/avlg/AVLGTree.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="284" />
+    <option name="width" value="1400" />
+    <option name="height" value="919" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project2" type="462c0819:PsiDirectoryNode" />
+              <item name="avlg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project2" type="462c0819:PsiDirectoryNode" />
+              <item name="avlg" type="462c0819:PsiDirectoryNode" />
+              <item name="exceptions" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551305688730" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.StudentTests.testAVL1RightRotation">
+    <configuration name="StudentTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="projects.avlg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="avlg" />
+      <option name="MAIN_CLASS_NAME" value="projects.avlg.StudentTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTests.testAVL1LeftRotation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="projects.avlg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="avlg" />
+      <option name="MAIN_CLASS_NAME" value="projects.avlg.StudentTests" />
+      <option name="METHOD_NAME" value="testAVL1LeftRotation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTests.testAVL1RightRotation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="projects.avlg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="avlg" />
+      <option name="MAIN_CLASS_NAME" value="projects.avlg.StudentTests" />
+      <option name="METHOD_NAME" value="testAVL1RightRotation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTests.testAVLChanged" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="projects.avlg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="avlg" />
+      <option name="MAIN_CLASS_NAME" value="projects.avlg.StudentTests" />
+      <option name="METHOD_NAME" value="testAVLChanged" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTests.testEnsureAVLG" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="projects.avlg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="avlg" />
+      <option name="MAIN_CLASS_NAME" value="projects.avlg.StudentTests" />
+      <option name="METHOD_NAME" value="testEnsureAVLG" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StudentTests.testAVL1RightRotation" />
+        <item itemvalue="JUnit.StudentTests.testAVL1LeftRotation" />
+        <item itemvalue="JUnit.StudentTests.testEnsureAVLG" />
+        <item itemvalue="JUnit.StudentTests.testAVLChanged" />
+        <item itemvalue="JUnit.StudentTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5955f1a-6937-47c3-8ee0-a75f69322250" name="Default Changelist" comment="" />
+      <created>1550687417706</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550687417706</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="StudentTests_testAVL1RightRotation - 2019.02.27 at 17h 04m 57s.xml">
+      <configuration name="StudentTests.testAVL1RightRotation" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentTests_testAVL1RightRotation - 2019.02.27 at 17h 05m 42s.xml">
+      <configuration name="StudentTests.testAVL1RightRotation" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentTests_testAVL1RightRotation - 2019.02.27 at 17h 06m 11s.xml">
+      <configuration name="StudentTests.testAVL1RightRotation" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentTests_testAVL1RightRotation - 2019.02.27 at 17h 07m 10s.xml">
+      <configuration name="StudentTests.testAVL1RightRotation" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentTests_testAVL1RightRotation - 2019.02.27 at 17h 08m 24s.xml">
+      <configuration name="StudentTests.testAVL1RightRotation" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentTests_testAVL1RightRotation - 2019.02.27 at 17h 09m 27s.xml">
+      <configuration name="StudentTests.testAVL1RightRotation" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentTests_testAVL1RightRotation - 2019.02.27 at 17h 11m 16s.xml">
+      <configuration name="StudentTests.testAVL1RightRotation" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentTests_testAVL1RightRotation - 2019.02.27 at 17h 13m 08s.xml">
+      <configuration name="StudentTests.testAVL1RightRotation" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentTests_testAVL1RightRotation - 2019.02.27 at 17h 13m 17s.xml">
+      <configuration name="StudentTests.testAVL1RightRotation" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentTests_testAVL1RightRotation - 2019.02.27 at 17h 13m 55s.xml">
+      <configuration name="StudentTests.testAVL1RightRotation" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="284" y="0" width="1400" height="919" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.25373134" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32719395" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32315522" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/avlg/exceptions/InvalidBalanceException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/avlg/exceptions/EmptyTreeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/avlg/AVLGTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3">
+          <caret line="449" column="17" lean-forward="true" selection-start-line="449" selection-start-column="17" selection-end-line="449" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#node_height#0;class#AVLGTree#0" />
+            <element signature="method#node_balance#0;class#AVLGTree#0" />
+            <element signature="method#revise_height#0;class#AVLGTree#0" />
+            <element signature="method#revise_balance#0;class#AVLGTree#0" />
+            <element signature="method#Tree_count#0;class#AVLGTree#0" />
+            <element signature="method#Tree_is_BST#0;class#AVLGTree#0" />
+            <element signature="method#rotateRight#0;class#AVLGTree#0" />
+            <element signature="method#rotateLeft#0;class#AVLGTree#0" />
+            <element signature="method#rotateLR#0;class#AVLGTree#0" />
+            <element signature="method#rotateRL#0;class#AVLGTree#0" />
+            <element signature="method#AVLGTree#0;class#AVLGTree#0" />
+            <element signature="method#search#0;class#AVLGTree#0" />
+            <element signature="method#getMaxImbalance#0;class#AVLGTree#0" />
+            <element signature="method#getHeight#0;class#AVLGTree#0" />
+            <element signature="e#13718#13719#0" expanded="true" />
+            <element signature="e#13753#13754#0" expanded="true" />
+            <element signature="method#getRoot#0;class#AVLGTree#0" />
+            <element signature="method#isBST#0;class#AVLGTree#0" />
+            <element signature="method#isAVLGBalanced#0;class#AVLGTree#0" />
+            <element signature="method#getCount#0;class#AVLGTree#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/avlg/StudentTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
