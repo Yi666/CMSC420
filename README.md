@@ -1,1 +1,3 @@
-# These are JAVA projects of course CMSC420 Data Structure
+### Description
+
+Code base for UMD's CMSC420, Data Structures, Section 0101, Spring 2019.
